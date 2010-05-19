@@ -1,0 +1,13 @@
+<flex-config xmlns="http://www.adobe.com/2006/flex-config">
+    <static-link-runtime-shared-libraries>true</static-link-runtime-shared-libraries>
+    <use-network>true</use-network>
+  <compiler>
+    <debug>true</debug>
+    <source-path><path-element>src</path-element></source-path>
+  </compiler>
+  <file-specs>
+    <path-element>src/AsyncCommandTutorial.as</path-element>
+  </file-specs>
+  <output>D:/junk/AsyncCommandTutorial/out/production/AsyncCommandTutorial/AsyncCommandTutorial.swf</output>
+
+</flex-config>

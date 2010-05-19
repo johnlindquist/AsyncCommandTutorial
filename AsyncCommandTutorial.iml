@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module classpath="eclipse" classpath-dir="$MODULE_DIR$" type="Flex" version="4">
+  <component name="Flex.Build.Configuration">
+    <option name="DO_BUILD" value="true" />
+    <option name="USE_CUSTOM_CONFIG_FILE" value="true" />
+    <option name="CUSTOM_CONFIG_FILE" value="$MODULE_DIR$/compiler-config.xml" />
+    <option name="MAIN_CLASS" value="AsyncCommandTutorial" />
+    <option name="OUTPUT_FILE_NAME" value="AsyncCommandTutorial.swf" />
+    <option name="TARGET_PLAYER_VERSION" value="10.0.0" />
+    <option name="VERSION" value="3" />
+  </component>
+</module>
+

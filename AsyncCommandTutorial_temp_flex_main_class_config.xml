@@ -1,0 +1,20 @@
+<flex-config xmlns="http://www.adobe.com/2006/flex-config">
+  <compiler>
+    <debug>true</debug>
+    <source-path>
+      <path-element>src</path-element>
+    </source-path>
+    <library-path append="true">
+      <path-element>D:/zip/robotlegs-1.1.b/robotlegs-framework-v1.1.0-beta.swc</path-element>
+      <path-element>D:/git/signals-extensions-CommandSignal/bin/signals-extension-SignalsCommandMap-v0.1.swc</path-element>
+      <path-element>D:/zip/minimal-comps/MinimalComps_0_9_4.swc</path-element>
+      <path-element>D:/git/flight-framework/project/bin/flight-framework.swc</path-element>
+      <path-element>D:/zip/astra-webapis-1.2.0/Build/AstraWebAPIs.swc</path-element>
+      <path-element>D:/git/as3-signals/bin/as3-signals-v0.6.swc</path-element>
+    </library-path>
+  </compiler>
+  <file-specs>
+    <path-element>src/AsyncCommandTutorial.as</path-element>
+  </file-specs>
+  <output>D:/junk/AsyncCommandTutorial/out/production/AsyncCommandTutorial/_AsyncCommandTutorial.swf</output>
+</flex-config>
